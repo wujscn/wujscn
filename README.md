@@ -1,8 +1,6 @@
 ### WINGS
 <img src="https://github-readme-stats.vercel.app/api?username=wujscn&show_icons=true">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wujscn&layout=compact&theme=nord&hide=VHDL,ROFF,CUDA&langs_count=9)
-
 
 <!--
 **wujscn/wujscn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

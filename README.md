@@ -1,4 +1,5 @@
-### Hi there 👋
+### WINGS
+<img src="https://github-readme-stats.vercel.app/api?username=wujscn&show_icons=true">
 
 <!--
 **wujscn/wujscn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

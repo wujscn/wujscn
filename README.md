@@ -2,6 +2,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=wujscn&show_icons=true">
 
 😄 我现在常驻本站，并且开始打理账号啦！
+
+<code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FJava_(programming_language)&psig=AOvVaw25wFCTaqfDJoSsktXmw8lF&ust=1618490318930000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKD7iLbg_e8CFQAAAAAdAAAAABAS" alt="C"></code>
+
+
 <!--
 **wujscn/wujscn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

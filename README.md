@@ -3,7 +3,7 @@
 
 😄 我现在常驻本站，并且开始打理账号啦！
 
-<code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FJava_(programming_language)&psig=AOvVaw25wFCTaqfDJoSsktXmw8lF&ust=1618490318930000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKD7iLbg_e8CFQAAAAAdAAAAABAS" alt="C"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/zh/8/88/Java_logo.png" alt="C"></code>
 
 
 <!--

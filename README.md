@@ -3,7 +3,82 @@
 
 😄 我输了，我输了所有，我输了一切。
 
-# <code><img height="80" src="https://upload.wikimedia.org/wikipedia/zh/8/88/Java_logo.png" alt="C"></code>
+</br>
+<img align="right" alt="coding" width="250" src="https://media.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif">
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
+
+</br>
+</br>
+<p align="center">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=younesaitmha&theme=radical&hide_border=true"/>
+</p>
+
+</br>
+
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
+
+<p align="center">
+   <a href="https://www.java.com" target="_blank"> <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.djangoproject.com/" target="_blank"> <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"> <img align="center" style="margin: 10px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+  <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="40"  />
+  <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="40" />
+  <a href="https://getbootstrap.com" target="_blank"> <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+  <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="40" />
+  <a href="https://reactjs.org/" target="_blank"> <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank"> <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank"> <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+  <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="40"  />
+  <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40px"/>
+  <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="vim" width="40" />
+  <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" width="40" />
+  <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" width="40" />
+</p>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
+
+[<img src="https://img.shields.io/badge/LinkedIn-younesaitmha-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin]
+[<img src="https://img.shields.io/badge/Twitter-@MhaYounes-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1DA1F2&color=1da1f2"/>][twitter]
+
+
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=younesaitmha&&style=flat" align="center" />
+</p>
+
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
+
+<details>
+ <summary>⚡ Recent Github Activity</summary>
+
+</details>
+
+<!--
+</a> <a href="https://archiveprogram.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="40" height="40"></a>
+</a> <a href="https://github.com/pricing"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="40" height="40"></a>
+## 🛠️ **Languages & Tools:**
+![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
+![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
+![Vim](https://img.shields.io/badge/-VIM-019733?style=for-the-badge&logo=vim)
+![VSCode](https://img.shields.io/badge/-vscode-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<a href="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/LICENCE">
+<img alt="Licence" src="https://img.shields.io/github/license/KarthikNayak024/KarthikNayak024?color=brightgreen&label=LICENCE&logo=MIT"/>
+</a>
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/KarthikNayak024/KarthikNayak024?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
+ <a href="https://github.com/KarthikNayak024/KarthikNayak024/actions">
+   <img alt="github-activity" src="https://github.com/KarthikNayak024/KarthikNayak024/workflows/update-gh-activity/badge.svg">
+  </a>
+<p align="center">
+<img src="https://img.shields.io/badge/made%20with%20%E2%9D%A4%20in%20-India-ff0019.svg?labelColor=black&style=for-the-badge&logo=data:image/svg+xml;
+base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMjI1IDE1MCI+CjxyZWN0IHdpZHRoPSIyMjUiIGhlaWdodD0iMTUwIiBmaWxsPSIjZjkzIi8+CjxyZWN0IHdpZHRoPSIyMjUiIGhlaWdodD0iNTAiIHk9IjUwIiBmaWxsPSIjZmZmIi8+CjxyZWN0IHdpZHRoPSIyMjUiIGhlaWdodD0iNTAiIHk9IjEwMCIgZmlsbD0iIzEyODgwNyIvPgo8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxMTIuNSw3NSkiPgo8Y2lyY2xlIHI9IjIwIiBmaWxsPSIjMDA4Ii8+CjxjaXJjbGUgcj0iMTcuNSIgZmlsbD0iI2ZmZiIvPgo8Y2lyY2xlIHI9IjMuNSIgZmlsbD0iIzAwOCIvPgo8ZyBpZD0iZCI+CjxnIGlkPSJjIj4KPGcgaWQ9ImIiPgo8ZyBpZD0iYSI+CjxjaXJjbGUgcj0iMC44NzUiIGZpbGw9IiMwMDgiIHRyYW5zZm9ybT0icm90YXRlKDcuNSkgdHJhbnNsYXRlKDE3LjUpIi8+CjxwYXRoIGZpbGw9IiMwMDgiIGQ9Ik0gMCwxNy41IDAuNiw3IEMgMC42LDcgMCwyIDAsMiAwLDIgLTAuNiw3IC0wLjYsNyBMIDAsMTcuNSB6Ii8+CjwvZz4KPHVzZSB4bGluazpocmVmPSIjYSIgdHJhbnNmb3JtPSJyb3RhdGUoMTUpIi8+CjwvZz4KPHVzZSB4bGluazpocmVmPSIjYiIgdHJhbnNmb3JtPSJyb3RhdGUoMzApIi8+CjwvZz4KPHVzZSB4bGluazpocmVmPSIjYyIgdHJhbnNmb3JtPSJyb3RhdGUoNjApIi8+CjwvZz4KPHVzZSB4bGluazpocmVmPSIjZCIgdHJhbnNmb3JtPSJyb3RhdGUoMTIwKSIvPgo8dXNlIHhsaW5rOmhyZWY9IiNkIiB0cmFuc2Zvcm09InJvdGF0ZSgtMTIwKSIvPgo8L2c+Cjwvc3ZnPgo="/>
+</p>
+<img src="https://madewithlove.now.sh/in?heart=true&colorA=%23000000&colorB=%23dc0000&template=for-the-badge️" alt="Made with love in India️">
+[<img src="https://img.shields.io/badge/Gmail-karunayak63@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>][gmail]
+[<img src="https://img.shields.io/badge/Github-karthikNayak024-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"/>][github]
+-->
 
 
 <!--

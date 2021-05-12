@@ -1,9 +1,9 @@
 ### WINGS
 <img src="https://github-readme-stats.vercel.app/api?username=wujscn&show_icons=true">
 
-😄 我现在常驻本站，并且开始打理账号啦！
+😄 我输了，我输了所有，我输了一切。
 
-<code><img height="80" src="https://upload.wikimedia.org/wikipedia/zh/8/88/Java_logo.png" alt="C"></code>
+# <code><img height="80" src="https://upload.wikimedia.org/wikipedia/zh/8/88/Java_logo.png" alt="C"></code>
 
 
 <!--

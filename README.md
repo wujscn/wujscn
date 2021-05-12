@@ -9,10 +9,6 @@
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
 
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=younesaitmha&&style=flat" align="center" />
-</p>
-
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
 <details>

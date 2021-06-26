@@ -1,7 +1,8 @@
 ### WINGS
 <img src="https://github-readme-stats.vercel.app/api?username=wujscn&show_icons=true">
 
-😄 我输了，我输了所有，我输了一切。
+😁 学习学习学习！
+😘 珍惜一切，拥抱生活！
 
 </br>
 <img align="right" alt="coding" width="250" src="https://media.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif">

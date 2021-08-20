@@ -1,5 +1,5 @@
 ### WINGS
-<img src="https://github-readme-stats.vercel.app/api?username=wujscn&show_icons=true">
+[<img src="https://github-readme-stats.vercel.app/api?username=wujscn&show_icons=true">](https://google.com)
 
 😁 学习学习学习！
 

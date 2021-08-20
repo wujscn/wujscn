@@ -4,6 +4,8 @@
 😁 学习学习学习！
 
 😘 珍惜一切，拥抱生活！
+
+🥵 自律的人很酷！
 [<img align="right" alt="coding" width="250" src="https://media.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif">](https://stackoverflow.com)
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
@@ -12,6 +14,7 @@
 
 <details>
  <summary>⚡ Recent Github Activity</summary>
+ 
 </details>
 
 

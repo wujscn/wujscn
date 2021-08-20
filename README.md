@@ -17,7 +17,7 @@
  
  - 我太菜了
  
- <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/grinning-face-with-sweat_1f605.png">
+ [<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/grinning-face-with-sweat_1f605.png">](https://google.com)
  
 </details>
 
